@@ -9,6 +9,8 @@ namespace GitTestApp
     public class Class1
     {
         /// 1. Create Solution
-        /// 2. Staging Job
+        /// 2-1. Staging Job
+        /// 2-1. Master Job
+        /// 3. staging_hotfix master merge
     }
 }
