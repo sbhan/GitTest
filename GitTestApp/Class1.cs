@@ -17,5 +17,6 @@ namespace GitTestApp
         /// 4. staging_hotfix Job add 1
         /// 5. staging_hotfix Job add 2
         /// 6. master job add 1
+        /// 7. master job add 2
     }
 }
