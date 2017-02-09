@@ -14,5 +14,8 @@ namespace GitTestApp
         /// 3. staging_hotfix master merge
         /// 2. Staging Job
         /// 3. Cherry Pick
+        /// 4. staging_hotfix Job add 1
+        /// 5. staging_hotfix Job add 2
+        /// 6. master job add 1
     }
 }
